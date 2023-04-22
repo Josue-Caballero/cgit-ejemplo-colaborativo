@@ -6,3 +6,4 @@
 - Aron Caballero Macías
 - Luis Sarmiento
 - Ruben Vera Parraga
+- Jimmy Gilces Vargas
