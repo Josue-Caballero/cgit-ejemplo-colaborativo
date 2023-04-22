@@ -3,7 +3,7 @@
 
 ## Aqui van los nombres de los asistentes:
 
-- Aron Caballero Macías
+- Aron Caballero Macías (Con firma)
 - Luis Sarmiento
 - Ruben Vera Parraga
 - Jimmy Gilces Vargas
