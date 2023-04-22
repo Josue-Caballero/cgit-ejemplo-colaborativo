@@ -8,3 +8,4 @@
 - Ruben Vera Parraga
 - Jimmy Gilces Vargas
 - Emely Mishell Apráez González
+- Carlos David Garcia Cedeño
