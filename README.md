@@ -7,3 +7,4 @@
 - Luis Sarmiento
 - Ruben Vera Parraga
 - Jimmy Gilces Vargas
+- Emely Mishell Apráez González
