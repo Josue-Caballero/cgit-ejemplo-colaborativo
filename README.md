@@ -8,4 +8,4 @@
 - Ruben Vera Parraga
 - Jimmy Gilces Vargas
 - Emely Mishell Apráez González
-- Henry Miguel Ruiz Reyes
+- Henry Ruiz Reyes
