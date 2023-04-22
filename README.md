@@ -3,5 +3,5 @@
 
 ## Aqui van los nombres de los asistentes:
 
-- Aron Caballero Macías
+- Aron Josué Caballero Macías
 
