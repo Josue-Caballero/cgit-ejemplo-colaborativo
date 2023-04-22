@@ -3,7 +3,8 @@
 
 ## Aqui van los nombres de los asistentes:
 
-- Aron Josué Caballero Macías
+- Aron Caballero Macías
 - Luis Sarmiento
+- Ruben Vera Parraga
 - Jimmy Gilces Vargas
 - Emely Mishell Apráez González
