@@ -3,6 +3,7 @@
 
 ## Aqui van los nombres de los asistentes:
 
-- Aron Caballero Macías
+- Aron Josué Caballero Macías
 - Luis Sarmiento
+- Jimmy Gilces Vargas
 - Henry Ruiz Reyes
